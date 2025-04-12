@@ -12,11 +12,6 @@ Adnan’s Picture Museum is a simple, elegant photographic website built to show
   - Open the project folder in your code editor
   - Replace image files in the `images/` directory
   - Edit the HTML and CSS files to update captions or styles
-* To deploy on GitHub Pages:
-  - Push the repository to your GitHub account  
-  - Go to the repo’s **Settings > Pages**, and select the branch (e.g., `main`) and root  
-  - Your site will be live at:  
-    👉 **https://kamukwa.github.io/photography-website/** (after deployment)
 
 ## Known Bugs  
 There are currently no known bugs.  
